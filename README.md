@@ -1,1 +1,1 @@
-"# Data-Analysis-with-SQL" 
+I will be adding my SQL data analysis projects to this repository. All analysis will be done in <b>PostgreSQL</b>, and will sometimes be accompanied by plots generated in <b>Matplotlib</b>. I create the databases on the Postgres server myself from freely available data sets; each project will contain a folder with all the tables used.
