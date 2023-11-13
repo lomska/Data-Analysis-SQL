@@ -2,4 +2,4 @@ I will be adding my SQL data analysis projects to this repository. All analysis 
 
 | Project | Description | Added | Techniques | Notebook | 
 | --- | --- | --- | --- | --- |
-| Superstore data analysis | Search for patterns and analysis of the dynamics of key sales indicators in the database of the fake trading network “Superstore”. | 13-11-2023 | Exploratory, Time series | [Link](https://github.com/lomska/Data-Analysis-with-SQL/blob/main/Superstore_Data_Analysis/Superstore_EDA.ipynb)
+| Superstore data analysis | Search for patterns and analysis of the dynamics of key sales indicators in the Superstore database. | 13-11-2023 | Exploratory, Time series | [Link](https://github.com/lomska/Data-Analysis-with-SQL/blob/main/Superstore_Data_Analysis/Superstore_EDA.ipynb)
