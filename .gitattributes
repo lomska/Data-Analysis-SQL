@@ -1,2 +1,2 @@
-*.sql linguist-detectable=true
-*.ipynb linguist-language=sql
+Superstore_Data_Analysis/*.sql linguist-detectable=true
+Superstore_Data_Analysis/*.ipynb linguist-language=sql
