@@ -1,0 +1,2 @@
+*.sql linguist-detectable=true
+*.ipynb linguist-language=sql
