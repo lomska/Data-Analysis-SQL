@@ -1,4 +1,4 @@
-This repository is for my SQL data analysis projects. All work is done in <b>PostgreSQL</b> and, in some cases, illustrated with <b>Matplotlib</b> charts. I create the databases on the Postgres server myself from freely available data sets; each project will contain a folder with all the tables used.
+This repository is for my SQL data analysis projects. All work is done in <b>PostgreSQL</b> and, in some cases, illustrated with <b>Matplotlib</b> charts. I create the databases on the Postgres server myself from freely available data sets; each project contains a folder with all the tables used.
 
 | Project | Description | Added | Techniques | Notebook | 
 | --- | --- | --- | --- | --- |
