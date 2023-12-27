@@ -1,4 +1,4 @@
-In this notebook, we look at world population growth trends using the World Bank's World Population Estimates and Projections database. It contains data on the total number and growth rate of the population, its age structure, fertility and mortality, net migration, the share of urban and rural population, and other series for the period from 1960 to 2022 and the forecast period until 2050.
+In this [notebook](https://github.com/lomska/Data-Analysis-SQL/blob/main/World_Bank_Population_Estimates_Analysis/World_Bank_Population_Estimates_Analysis.ipynb), we look at world population growth trends using the World Bank's World Population Estimates and Projections database. It contains data on the total number and growth rate of the population, its age structure, fertility and mortality, net migration, the share of urban and rural population, and other series for the period from 1960 to 2022 and the forecast period until 2050.
 
 <b>We are going to find answers to questions such as:</b>
 
